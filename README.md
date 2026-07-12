@@ -1,12 +1,12 @@
-# 🤖 Carrinho Seguidor de Linha
+# 🤖 Robô Seguidor de Linha
 
-Repositório oficial do projeto **Carrinho Seguidor de Linha** do canal **Projeto Labz**.
+Repositório oficial do projeto **Robô Seguidor de Linha** do canal **Projeto Labz**.
 
 Aqui você encontrará todos os códigos, esquemas elétricos, diagramas, modelos 3D, materiais de apoio e exemplos utilizados nas aulas do canal ou publicação do blog.
 
 ## 📚 Sobre o Projeto
 
-O Carrinho Seguidor de Linha é um dos projetos mais clássicos da robótica educacional. O robô é capaz de identificar uma linha no chão, desviar de objetos e seguir seu percurso automaticamente.
+O Robô Seguidor de Linha é um dos projetos mais clássicos da robótica educacional. O robô é capaz de identificar uma linha no chão, desviar de objetos e seguir seu percurso automaticamente.
 
 Este projeto foi desenvolvido com foco no aprendizado de:
 
@@ -54,7 +54,7 @@ Este projeto foi desenvolvido com foco no aprendizado de:
 
 Neste repositório você encontrará:
 
-- Código completo do carrinho
+- Código completo do Robô
 - Versões comentadas
 - Testes individuais dos sensores
 - Testes dos motores
@@ -72,11 +72,11 @@ Todo o desenvolvimento deste projeto é explicado passo a passo no canal **Proje
 
 Além do código, você aprenderá:
 
-- Como montar o carrinho
+- Como montar o Robô
 - Como ligar cada componente
 - Como funciona cada sensor
 - Como controlar os motores
-- Como melhorar a precisão do carrinho
+- Como melhorar a precisão do Robô
 
 ---
 
@@ -85,7 +85,7 @@ Além do código, você aprenderá:
 1. Acesse/Clone este repositório
 
 ```bash
-https://github.com/projetolabz/carrinho-seguidor-de-linha
+https://github.com/projetolabz/robo-seguidor-de-linha
 ```
 
 2. Abra o código na Arduino IDE.
@@ -138,4 +138,4 @@ Compartilhe este projeto com outros apaixonados por tecnologia, robótica e prog
 
 **Projeto Labs** 🚀
 
-Aprender • Criar • Compartilhar# carrinho-seguidor-de-linha
+Aprender • Criar • Compartilhar #robo-seguidor-de-linha
