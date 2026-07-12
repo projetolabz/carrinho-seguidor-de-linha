@@ -54,7 +54,7 @@ Este projeto foi desenvolvido com foco no aprendizado de:
 
 Neste repositório você encontrará:
 
-- Código completo do Robô
+- Código completo do robô
 - Versões comentadas
 - Testes individuais dos sensores
 - Testes dos motores
@@ -72,11 +72,11 @@ Todo o desenvolvimento deste projeto é explicado passo a passo no canal **Proje
 
 Além do código, você aprenderá:
 
-- Como montar o Robô
+- Como montar o robô
 - Como ligar cada componente
 - Como funciona cada sensor
 - Como controlar os motores
-- Como melhorar a precisão do Robô
+- Como melhorar a precisão do robô
 
 ---
 
